@@ -2,7 +2,9 @@
 
 ## Overview
 
-This application is a ***books inventory*** system programmed using a ***stack*** concept. The books are pushed based on five specific attributes, which are: book title, author, ISBN number, book price and book genre. The methods that used in this application are:
+This application is a ***books inventory*** implemented using a ***stack*** concept. The books are pushed based on five specific attributes, which are: book title, author, ISBN number, book price and book genre.
+
+## Used Methods
 
 - `push()`: to insert a new book in the inventory.
 - `pop()`: to delete the top book from the inventory.
